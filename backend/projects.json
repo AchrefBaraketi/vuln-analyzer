@@ -1,0 +1,56 @@
+[
+  {
+    "groupId": "com.example",
+    "artifactId": "demo",
+    "name": "demo",
+    "description": "Demo project for Spring Boot",
+    "packageName": "com.example.demo",
+    "dependencies": [
+      "devtools"
+    ],
+    "bootVersion": "3.3.0",
+    "language": "kotlin",
+    "packaging": "jar",
+    "javaVersion": "17"
+  },
+  {
+    "groupId": "com.example",
+    "artifactId": "demo1",
+    "name": "demo1",
+    "description": "Demo project for Spring Boot",
+    "packageName": "com.example.demo",
+    "dependencies": [
+      "devtools"
+    ],
+    "bootVersion": "3.5.0",
+    "language": "java",
+    "packaging": "jar",
+    "javaVersion": "21"
+  },
+  {
+    "groupId": "com.example",
+    "artifactId": "demo2",
+    "name": "demo2",
+    "description": "Demo project for Spring Boot",
+    "packageName": "com.example.demo",
+    "dependencies": [
+      "lombok"
+    ],
+    "bootVersion": "3.3.0",
+    "language": "java",
+    "packaging": "jar",
+    "javaVersion": "17"
+  },
+  {
+    "groupId": "com.example",
+    "artifactId": "demo",
+    "name": "2222",
+    "description": "Demo project for Spring Boot",
+    "packageName": "com.example.demo",
+    "dependencies": [],
+    "bootVersion": "3.3.0",
+    "language": "java",
+    "packaging": "jar",
+    "javaVersion": "17"
+  }
+]
